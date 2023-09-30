@@ -1,3 +1,5 @@
 t=(2,3,4)
 a=type(t)
 print(a)
+for i in t:
+  print(i)
